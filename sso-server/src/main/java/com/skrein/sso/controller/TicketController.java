@@ -6,12 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * 2020/5/7 10:51
- *
- * @author hujiansong@dobest.com
- * @since 1.8
- */
 @RestController
 @Slf4j
 public class TicketController {

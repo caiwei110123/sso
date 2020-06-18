@@ -12,12 +12,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.util.UUID;
 
-/**
- * 2020/5/6 13:51
- *
- * @author hujiansong@dobest.com
- * @since 1.8
- */
 @Controller
 @Slf4j
 public class LoginController {

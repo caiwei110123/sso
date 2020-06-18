@@ -5,12 +5,6 @@ import java.io.InputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
-/**
- * 2020/5/7 11:10
- *
- * @author hujiansong@dobest.com
- * @since 1.8
- */
 public class HttpUtils {
     public static String doGet(String urlParam) {
 

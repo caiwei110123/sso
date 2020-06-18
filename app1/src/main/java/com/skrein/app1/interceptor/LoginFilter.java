@@ -11,12 +11,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * 2020/5/7 13:48
- *
- * @author hujiansong@dobest.com
- * @since 1.8
- */
 @Slf4j
 public class LoginFilter implements Filter {
 

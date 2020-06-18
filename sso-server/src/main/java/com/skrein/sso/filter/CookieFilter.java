@@ -12,12 +12,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.UUID;
 
-/**
- * 2020/5/7 12:17
- *
- * @author hujiansong@dobest.com
- * @since 1.8
- */
 @Slf4j
 @Component
 public class CookieFilter implements Filter {

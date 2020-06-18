@@ -9,12 +9,6 @@ import redis.clients.jedis.JedisPoolConfig;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * 2020/5/7 12:13
- *
- * @author hujiansong@dobest.com
- * @since 1.8
- */
 @Service
 @Slf4j
 public class RedisService {

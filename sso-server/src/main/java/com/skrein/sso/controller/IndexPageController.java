@@ -7,12 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * 2020/5/6 13:47
- *
- * @author hujiansong@dobest.com
- * @since 1.8
- */
 @Controller
 @RequestMapping("/index")
 @Slf4j

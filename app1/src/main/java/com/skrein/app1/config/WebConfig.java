@@ -5,12 +5,6 @@ import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * 2020/5/6 14:21
- *
- * @author hujiansong@dobest.com
- * @since 1.8
- */
 @Configuration
 public class WebConfig {
 
